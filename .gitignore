@@ -1,0 +1,3 @@
+# Poetry
+/.venv/*
+/dist/*
